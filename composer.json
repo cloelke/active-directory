@@ -28,8 +28,8 @@
   },
   "require": {
     "magium/configuration-manager": "^1.0.1",
-    "league/oauth2-client": "^2.4.1",
-    "microsoft/microsoft-graph": "^1.12.0",
+    "league/oauth2-client": "^1.4",
+    "microsoft/microsoft-graph": "^1.5",
     "zendframework/zend-psr7bridge": "^0.2"
   }
 }
