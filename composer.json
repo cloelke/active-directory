@@ -1,7 +1,7 @@
 {
   "name": "magium/active-directory",
   "description": "Provides connectivity to Active Directory implementations",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "Apache-2.0",
   "authors": [
     {
